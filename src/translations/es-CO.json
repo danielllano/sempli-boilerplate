@@ -1,0 +1,17 @@
+{
+    "APP_NAME": "Sempli Back Office",
+    "About": "Acerca",
+    "Clients": "Clientes",
+    "Hello world !": "Hola Mundo !",
+    "Home": "Inicio",
+    "Logged in as": "Conecado como",
+    "Login": "Entrar",
+    "Logout": "Salir",
+    "Password": "Contraseña",
+    "Password is required": "Contraseña es requerida",
+    "Username": "Usuario",
+    "Username is required": "Usuario es requerido",
+    "Username or password incorrect.": "Usuario o contraseña incorrecto.",
+    "Remember me": "Recordarme",
+    "Version": "Versión"
+}
