@@ -2,6 +2,9 @@
 
 .navbar {
   margin-bottom: $spacer;
+  .logo {
+    width: 120px;
+  }
 }
 
 .nav-link.dropdown-toggle {

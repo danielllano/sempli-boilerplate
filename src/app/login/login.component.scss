@@ -1,6 +1,10 @@
 @import "src/theme/theme-variables";
 @import "~bootstrap/scss/mixins/_breakpoints";
 
+.logo {
+  width: 300px;
+}
+
 .login-container {
   position: absolute;
   top: 0;
