@@ -3,3 +3,22 @@
  * Framework overrides and customization goes here.
  */
 
+body {
+  background-color: $gray-200;
+  padding-bottom: 5rem;
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+ @media (min-width: 1400px) {
+  .container-fluid,.page-titles,.sidebar-nav,.topbar .top-navbar {
+      max-width:1600px;
+      margin: 0 auto
+  }
+
+  .footer {
+      text-align: center
+  }
+}
