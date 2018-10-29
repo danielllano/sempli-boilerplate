@@ -27,8 +27,8 @@ export class I18nService {
 
   constructor(private translateService: TranslateService) {
     // Embed languages to avoid extra HTTP requests
-    translateService.setTranslation('en-US', enUS);
-    translateService.setTranslation('es-CO', esCo);
+    translateService.setTranslation('en-US', enUS.default);
+    translateService.setTranslation('es-CO', esCo.default);
   }
 
   /**
